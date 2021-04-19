@@ -8,7 +8,7 @@
 
 自动答题——快速完成每日答题、每周答题和专项答题。
 
-![image](https://z3.ax1x.com/2021/04/16/chk9L6.jpg)
+![image](https://i.bmp.ovh/imgs/2021/04/f8d5e22bff0882e1.png)
 
 [点此高速下载](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)  解压密码 xx123
 
