@@ -10,6 +10,9 @@
 
 ![image](https://i.bmp.ovh/imgs/2021/04/f8d5e22bff0882e1.png)
 
-[点此高速下载](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)  解压密码 xx123
+[点此下载 7z](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)  
+[点此下载 zip](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.zip) 
+
+# 解压密码 xx123
 
 如有拦截，纯属误报，请添加白名单，或使用[火绒安全](https://www.huorong.cn/)
