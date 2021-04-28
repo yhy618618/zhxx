@@ -8,7 +8,7 @@
 
 自动答题——快速完成每日答题、每周答题和专项答题。
 
-![image](https://i.bmp.ovh/imgs/2021/04/f8d5e22bff0882e1.png =676,556)
+![image](https://i.bmp.ovh/imgs/2021/04/f8d5e22bff0882e1.png){:width="676" height="556"}
 
 [点此下载 7z](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)  
 [点此下载 zip](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.zip) 
