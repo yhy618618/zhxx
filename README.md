@@ -12,7 +12,7 @@
 
 模拟练习——最新题库随时练习。
 
-<img src="https://i.bmp.ovh/imgs/2021/04/f8d5e22bff0882e1.png" alt="md" width="677" height="556">
+<img src="https://z3.ax1x.com/2021/05/31/2eQrL9.jpg" alt="md" width="677" height="556">
 
 [点此下载.7z](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.7z)  
 [点此下载.zip](https://aiyotu.github.io/xx/%E6%99%BA%E6%85%A7%E5%AD%A6%E4%B9%A0.zip) 
